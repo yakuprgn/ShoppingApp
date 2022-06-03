@@ -1,0 +1,5 @@
+11 Crafting 50 HandmadeProduct Bracelet
+12 Crafting 100 HandmadeProduct Purse
+13 Crafting 150 HandmadeProduct Vase
+14 Crafting 200 HandmadeProduct Necklace
+15 Crafting 300 HandmadeProduct Ring

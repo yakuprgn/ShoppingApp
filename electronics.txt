@@ -1,0 +1,6 @@
+1 Electronic 15000 Apple iPhone13
+2 Electronic 12000 Samsung S20
+3 Electronic 11000 Huawei P30
+4 Electronic 4000 HP Monitor
+5 Electronic 2000 Dell Charger
+ 

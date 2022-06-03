@@ -1,0 +1,5 @@
+6 Clothes 400 Altinyildiz Coat
+7 Clothes 250 Kigili Shirt
+8 Clothes 300 Karaca Trouser
+9 Clothes 700 Desa Jacket
+10 Clothes 500 Gizia Coat
